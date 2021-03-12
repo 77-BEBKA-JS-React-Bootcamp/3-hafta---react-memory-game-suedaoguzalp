@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('/Users/suedaoguzalp/memory-game/src/img/stars.jpg');
 }
 
 code {

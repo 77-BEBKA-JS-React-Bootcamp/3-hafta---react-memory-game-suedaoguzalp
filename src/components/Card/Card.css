@@ -1,0 +1,15 @@
+.card {
+    width: 100px;
+    height: 150px;
+    margin-left: 40px;
+    
+}
+   
+img.card-open {
+        width: 100%;
+    }
+
+    
+img.card-closed {
+        width: 100%;
+    }

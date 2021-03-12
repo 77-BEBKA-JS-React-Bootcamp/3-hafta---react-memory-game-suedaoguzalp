@@ -1,0 +1,15 @@
+.card-container{
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    margin: auto;
+    
+}
+
+.game-info {
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+}
